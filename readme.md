@@ -11,9 +11,10 @@ You can see an example in the links I added for <a href="http://www.prototypr.io
 
 If anyone is working on the plugin please find my changes on [github](https://github.com/GraemeFulton/super-link-preview-fork)
 
-
+<hr>
 
 === Super Link Preview ===
+<br>
 Contributors: daniele.perilli
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EZLNC7WFPTDH4
 Tags: screenshot, browser, browser shot, generator, tool, shortcode, automate, screenshots, shots, web browser, window, snap, website screenshot, website preview, link preview, preview, thumbnail, embed, oembed, facebook sharer, sharing, og:image, OpenGraph, ads, shortner, unshortner
