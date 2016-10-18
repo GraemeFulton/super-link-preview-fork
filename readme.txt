@@ -1,3 +1,18 @@
+I've made a few changes to this plugin so that the link preview looks very similar to those on Medium.com.
+
+<ul>
+<li>I added a template and css to show the post image, title, description and original link in a card format (instead of just the image). </li>
+<li> I also added an extra parameter so you can paste any custom image in (if you don't like the one attached to the link)</li>
+</ul>
+
+You can see an example in the links I added for <a href="http://www.prototypr.io/2016/10/18/2016-still-going-office/" target="_blank">this article</a> on my <a href="http://prototypr.io" target="_blank">prototyping site</a>.
+
+<li>The only problem I had was with the lazy-loading setting, as I changed the image embed to a background image of a div so that I could centre the image
+
+If anyone is working on the plugin please find my changes on [github](https://github.com/GraemeFulton/super-link-preview-fork)
+
+
+
 === Super Link Preview ===
 Contributors: daniele.perilli
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EZLNC7WFPTDH4
